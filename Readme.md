@@ -104,6 +104,11 @@ Provide step-by-step instructions on how to install the project.
 
 ## Screenshots / GIFs
 
+<div align="center">
+  
+<img width="1537" height="871" alt="image" src="https://github.com/user-attachments/assets/f4a66abf-6748-42a0-b3b0-1ea9ca4c1548" />
+
+</div>
 
 **Create Your NFT**
 
@@ -128,9 +133,7 @@ Provide step-by-step instructions on how to install the project.
 
 ![Screenshot 2025-04-07 153859](https://github.com/user-attachments/assets/ccc2c546-f837-4437-9137-ab54afe21aeb)
 
----
 
-![Screenshot 2025-04-07 154153](https://github.com/user-attachments/assets/110b363b-72ac-4c9d-b963-0884a46e4f7c)
 
 
 </div>
